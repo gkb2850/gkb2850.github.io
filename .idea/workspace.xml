@@ -14,11 +14,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="33.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="33.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/33.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
               <caret line="7" column="149" selection-start-line="7" selection-start-column="149" selection-end-line="7" selection-end-column="149" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="555.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/555.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="68" selection-start-line="7" selection-start-column="68" selection-end-line="7" selection-end-column="68" />
             </state>
           </provider>
         </entry>
@@ -45,6 +54,7 @@
         <option value="$PROJECT_DIR$/下午html.html" />
         <option value="$PROJECT_DIR$/22.html" />
         <option value="$PROJECT_DIR$/33.html" />
+        <option value="$PROJECT_DIR$/555.html" />
       </list>
     </option>
   </component>
@@ -114,12 +124,12 @@
       <option name="presentableId" value="Default" />
       <updated>1555203017439</updated>
       <workItem from="1555203023218" duration="3487000" />
-      <workItem from="1555223878233" duration="3214000" />
+      <workItem from="1555223878233" duration="3827000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6701000" />
+    <option name="totallyTimeSpent" value="7314000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="140" y="215" width="1373" height="764" extended-state="0" />
@@ -167,6 +177,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="149" selection-start-line="7" selection-start-column="149" selection-end-line="7" selection-end-column="149" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/555.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="68" selection-start-line="7" selection-start-column="68" selection-end-line="7" selection-end-column="68" />
         </state>
       </provider>
     </entry>
